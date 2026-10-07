@@ -154,7 +154,7 @@ openjdk version "21"
 ## 1. Клонирование репозитория
 
 ```bash
-git clone <URL_РЕПОЗИТОРИЯ>
+git clone https://github.com/17Joji17/onno-subscriptions.git
 cd onno-subscriptions
 ```
 

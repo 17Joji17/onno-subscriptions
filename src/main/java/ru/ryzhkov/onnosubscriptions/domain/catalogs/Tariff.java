@@ -35,6 +35,10 @@ public class Tariff extends CatalogObject {
         return pricePerPeriod;
     }
 
+    public void setPricePerPeriod(BigDecimal pricePerPeriod) {
+        this.pricePerPeriod = pricePerPeriod;
+    }
+
     public Integer getPeriodDurationDays() {
         return periodDurationDays;
     }
