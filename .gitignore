@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Runtime database
+data/
+*.mv.db
+*.trace.db
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
